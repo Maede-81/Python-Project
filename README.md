@@ -70,8 +70,8 @@ My next goal is to develop **more advanced AI and automation projects**, contrib
 
 If you’re interested in collaborating or have feedback, feel free to reach out!  
 
-📫 **Contact:** [YourEmail@example.com]  
-🌐 **GitHub:** [github.com/YourUsername]  
+📫 **Contact:** [maedekhajekhalili@gmail.com]  
+🌐 **GitHub:** [github.com/Maede-81]  
 
 ---
 
