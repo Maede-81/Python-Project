@@ -68,7 +68,9 @@ Bubble Sort: [1, 2, 5, 5, 6, 9]
 Insertion Sort: [1, 2, 5, 5, 6, 9]
 Selection Sort: [1, 2, 5, 5, 6, 9]
 ```
+
 📊 Comparing Performance
+
 Using the notebook run.ipynb, you can generate random lists and compare execution times:
 ```
 from utils import generate_random_list, time_function
@@ -91,6 +93,7 @@ selection_sort: 0.2899 seconds
 (Results vary by system and input size)
 
 🧰 Utilities (utils.py)
+
 Typical helper functions include:
 ```
 def generate_random_list(size=10, min_val=0, max_val=100):
@@ -103,7 +106,9 @@ def time_function(func, data):
 ```
 These help with performance benchmarking and automated testing.
 
+
 🧪 Testing
+
 Each sorting script includes a simple built-in test:
 ```
 if __name__ == "__main__":
@@ -114,7 +119,9 @@ For more comprehensive tests, you can use pytest:
 pip install pytest
 pytest
 ```
+
 📈 Optional Visualization
+
 You can extend this project with Matplotlib to visualize sorting performance.
 ```
 import matplotlib.pyplot as plt
@@ -138,13 +145,22 @@ plt.show()
 ```
 
 🧭 Learning Goals
+
 Understand algorithmic complexity (Big O notation)
+
 Learn how nested loops affect runtime
+
 Practice timing and benchmarking Python functions
+
 Compare performance visually and numerically
+
 👨‍💻 Author
+
 Developed with ❤️ by [Maede]
+
 📧 Email: maedekhajekhalili@gmaoil.com
+
 🐙 GitHub: @Maede_81
+
 
 
