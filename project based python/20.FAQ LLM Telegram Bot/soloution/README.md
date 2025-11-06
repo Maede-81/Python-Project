@@ -48,7 +48,9 @@ jupyter notebook run.ipynb
 ```
 
 🧠 Example Usage
+
 You can import and test the sorting functions directly:
+
 ```
 from bubble_sort import bubble_sort
 from insertion_sort import insertion_sort
@@ -144,4 +146,5 @@ Compare performance visually and numerically
 Developed with ❤️ by [Maede]
 📧 Email: maedekhajekhalili@gmaoil.com
 🐙 GitHub: @Maede_81
+
 
