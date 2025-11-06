@@ -169,13 +169,6 @@ Practice timing and benchmarking Python functions
 
 Compare performance visually and numerically
 
-## 👨‍💻 Author
-
-Developed with ❤️ by [Maede]
-
-📧 Email: maedekhajekhalili@gmaoil.com
-
-🐙 GitHub: @Maede_81
 
 
 
