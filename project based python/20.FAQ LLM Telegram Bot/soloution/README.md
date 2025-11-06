@@ -46,11 +46,7 @@ Then open the Jupyter notebook:
 ```
 jupyter notebook run.ipynb
 ```
-🧩 Algorithms Overview
-Algorithm	Best Case	Average Case	Worst Case	Space	Stable	Description
-Bubble Sort	O(n²)	O(n²)	O(n²)	O(1)	✅ Yes	Repeatedly swaps adjacent elements
-Selection Sort	O(n²)	O(n²)	O(n²)	O(1)	❌ No	Selects the smallest element each pass
-Insertion Sort	O(n)	O(n²)	O(n²)	O(1)	✅ Yes	Inserts elements into correct position
+
 🧠 Example Usage
 You can import and test the sorting functions directly:
 ```
@@ -148,3 +144,4 @@ Compare performance visually and numerically
 Developed with ❤️ by [Maede]
 📧 Email: maedekhajekhalili@gmaoil.com
 🐙 GitHub: @Maede_81
+
