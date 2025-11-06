@@ -173,9 +173,10 @@ Compare performance visually and numerically
 
 Developed with ❤️ by [Maede]
 
-## 📧 Email: maedekhajekhalili@gmaoil.com
+📧 Email: maedekhajekhalili@gmaoil.com
 
-## 🐙 GitHub: @Maede_81
+🐙 GitHub: @Maede_81
+
 
 
 
