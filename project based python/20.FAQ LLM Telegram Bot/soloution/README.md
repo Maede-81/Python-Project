@@ -62,7 +62,7 @@ jupyter notebook run.ipynb
 | **Selection Sort** | O(n²) | O(n²) | O(n²) | O(1) | ❌ No | Selects the smallest element each pass |
 | **Insertion Sort** | O(n) | O(n²) | O(n²) | O(1) | ✅ Yes | Inserts elements into correct position |
 
-🧠 Example Usage
+## 🧠 Example Usage
 
 You can import and test the sorting functions directly:
 
@@ -84,7 +84,7 @@ Insertion Sort: [1, 2, 5, 5, 6, 9]
 Selection Sort: [1, 2, 5, 5, 6, 9]
 ```
 
-📊 Comparing Performance
+## 📊 Comparing Performance
 
 Using the notebook run.ipynb, you can generate random lists and compare execution times:
 ```
@@ -107,7 +107,7 @@ selection_sort: 0.2899 seconds
 ```
 (Results vary by system and input size)
 
-🧰 Utilities (utils.py)
+## 🧰 Utilities (utils.py)
 
 Typical helper functions include:
 ```
@@ -122,7 +122,7 @@ def time_function(func, data):
 These help with performance benchmarking and automated testing.
 
 
-🧪 Testing
+## 🧪 Testing
 
 Each sorting script includes a simple built-in test:
 ```
@@ -135,7 +135,7 @@ pip install pytest
 pytest
 ```
 
-📈 Optional Visualization
+## 📈 Optional Visualization
 
 You can extend this project with Matplotlib to visualize sorting performance.
 ```
@@ -159,7 +159,7 @@ plt.legend()
 plt.show()
 ```
 
-🧭 Learning Goals
+## 🧭 Learning Goals
 
 Understand algorithmic complexity (Big O notation)
 
@@ -169,13 +169,14 @@ Practice timing and benchmarking Python functions
 
 Compare performance visually and numerically
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed with ❤️ by [Maede]
 
-📧 Email: maedekhajekhalili@gmaoil.com
+## 📧 Email: maedekhajekhalili@gmaoil.com
 
-🐙 GitHub: @Maede_81
+## 🐙 GitHub: @Maede_81
+
 
 
 
