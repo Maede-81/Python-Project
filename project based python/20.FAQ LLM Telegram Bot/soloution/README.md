@@ -19,7 +19,15 @@ This repository is designed for **learning, benchmarking, and visualizing** how 
 
 ## 📁 Project Structure
 
-sorting-algorithms/ │ ├── bubble_sort.py # Bubble Sort implementation ├── insertion_sort.py # Insertion Sort implementation ├── selection_sort.py # Selection Sort implementation ├── utils.py # Helper utilities (generate data, timer, validator) └── run.ipynb # Jupyter notebook to run and compare algorithms
+sorting-algorithms/ │ ├── bubble_sort.py # BubbleSort
+
+implementation ├── insertion_sort.py # InsertionSort 
+
+implementation ├── selection_sort.py # SelectionSort 
+
+implementation ├── utils.py # Helper utilities (generate data, timer, validator) └── run.ipynb # Jupyter 
+
+notebook to run and compare algorithms
 
 
 ---
@@ -161,6 +169,7 @@ Developed with ❤️ by [Maede]
 📧 Email: maedekhajekhalili@gmaoil.com
 
 🐙 GitHub: @Maede_81
+
 
 
 
